@@ -1,0 +1,13 @@
+# This project has no Python dependencies, so there are no pip packages to list.
+# Running pip install -r requirements.txt will not install the website runtime.
+#
+# Requirements (install separately, not through pip):
+# - A modern web browser to view index.html.
+# - Node.js 20 or newer, including npm, to run registration and login.
+#
+# No npm packages are required: server.js uses built-in Node.js modules only.
+# Node.js dependencies belong in package.json if added in the future.
+#
+# Run from this folder: npm start
+# Then open: http://localhost:3000
+# Opening index.html directly displays the page but does not enable login.
